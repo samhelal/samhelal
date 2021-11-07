@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sam helal
+- 👋 Hi, I’m Sam Helal
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning c++ (c++ how to program)
 - 💞️ I’m looking to collaborate on any c++ programing
